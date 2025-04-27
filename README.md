@@ -25,10 +25,12 @@ int main() {
 ```
 
 ## OUTPUT:
-```
-Modified value: 25.00
-```
- 	
+
+
+
+![Screenshot (143)](https://github.com/user-attachments/assets/5dfe8795-c012-4ab9-b191-18f6a3d40d50)
+
+
 
 
 
@@ -81,10 +83,10 @@ int main() {
 }
 ```
 ## OUTPUT:
-```
-Product of first 12 natural numbers: 479001600
-```
-         		
+
+![Screenshot (144)](https://github.com/user-attachments/assets/95f669bb-f2f3-469e-a061-4ed40e4dd60d)
+
+    		
 ## RESULT:
 
 Thus the program has been executed successfully.
@@ -132,18 +134,15 @@ int main() {
 
 
 ## OUTPUT
-```
-Sum of row 1: 6
-Sum of row 2: 15
-Sum of row 3: 24
-```
 
- 
+
+ ![Screenshot (145)](https://github.com/user-attachments/assets/97328ab6-763b-4bda-8fa5-07c2791ec98c)
+
  
 
  ## RESULT
  
-
+Thus the program has been executed successfully.
 
 # EX-24-STRINGS
 
@@ -190,17 +189,9 @@ int main() {
 
 
  ## OUTPUT
- ```
-Enter number of rows: 5
-    P
-   P R
-  P R O
- P R O G
-P R O G R
 
-```
+ ![Screenshot (146)](https://github.com/user-attachments/assets/8010dcf5-cc2e-465b-b947-e16e12d2e96c)
 
- 
 
 ## RESULT
 
@@ -259,15 +250,10 @@ int main() {
 ```
 
 ## OUTPUT
-```
-Enter the number of elements: 6
-Enter 6 elements:
-1 2 3 4 5 6
-The elements in the array are:
-1 2 3 4 5 6
-```
 
- 
+
+ ![Screenshot (147)](https://github.com/user-attachments/assets/9dea965a-3fe7-4e91-a71f-6c4affa6af11)
+
 
 ## RESULT
 
